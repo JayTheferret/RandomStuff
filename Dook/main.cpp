@@ -9,7 +9,7 @@ int main() {
 	string dook = "Dook ";
 
 	while (true) {
-		
+
 		cout << dook;
 		Sleep(500);
 	}
